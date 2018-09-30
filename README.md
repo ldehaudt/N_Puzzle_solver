@@ -8,6 +8,8 @@ like a greedy mode, a uniform mode, and a multiplier mode.
 
 This was done with Conan Wu (conanwu777) <------ *Go check out her stuff*  
 
+As always... enjoy ^-^
+
 ## Comiling and Running
 
 Make sure to check out the options bellow before running.
