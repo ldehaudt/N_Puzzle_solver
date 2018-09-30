@@ -27,9 +27,12 @@ python puzzle_generator.py -s [size] > tmp; ./nPuzzle tmp
 ## Options
 
 `-v` run visualizer
+
 `-g` greedy mode
+
 `-m` multiplier mode (recomended)
-`-u` uniform mode
+
+ `-u` uniform mode
 
 ## Input (visualizer only)
 
