@@ -45,7 +45,7 @@ void	Display::SDL_Start()
 	tmpSurf = SDL_LoadBMP("EGG.bmp");
 	pic[2] = SDL_CreateTextureFromSurface(rend, tmpSurf);
 	SDL_FreeSurface(tmpSurf);
-	tmpSurf = SDL_LoadBMP("GAYTAN.bmp");
+	tmpSurf = SDL_LoadBMP("GAETAN.bmp");
 	pic[3] = SDL_CreateTextureFromSurface(rend, tmpSurf);
 	SDL_FreeSurface(tmpSurf);
 }
