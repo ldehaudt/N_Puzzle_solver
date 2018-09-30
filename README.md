@@ -1,7 +1,6 @@
 # N_Puzzle
 
-A solver for the puzzle everyone played as a kid. In the classic tile sliding game N_Puzzle, the goal is to recreate a picture by sliding around
-tiles. 
+A solver for the puzzle everyone played as a kid. In the classic tile sliding game N_Puzzle, the goal is to recreate a picture by sliding around it's pieces. Pretty neat stuff.
 
 This program uses A* pathfinding with different heuristics to find the fastest way to solve the puzzle. it features customizable options to
 like a greedy mode, a uniform mode, and a multiplier mode.
